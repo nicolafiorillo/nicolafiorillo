@@ -9,5 +9,6 @@ CTO for startups, Software Engineer and Enterprise Software Architect consultant
 - Creator of the [Seven Otters](https://www.sevenotters.org/) project, a set of facilities developed to create
 - CQRS/ES solutions in Elixir on BEAM virtual machine.
 - Sometimes speaker.
+- More at [nicolafiorillo.com](https://www.nicolafiorillo.com)
 
-Hire me.
+[Hire me](nicola.fiorillo@gmail.com).
