@@ -1,6 +1,6 @@
 
 <h1 align="center">Nicola Fiorillo</h1>
-<p align="center">
+<p align="center" style="margin-left: 20%; margin-right: 20%;">
   CTO for startups, Software Engineer and Enterprise Software Architect consultant and freelance, specialized in mobile solutions and distributed architectures.
 </p>
 
