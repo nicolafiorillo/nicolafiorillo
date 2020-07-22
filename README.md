@@ -1,10 +1,12 @@
 
 <h1 align="center">Nicola Fiorillo</h1>
 <p align="center">
+  CTO for startups, Software Engineer and Enterprise Software Architect consultant and freelance, specialized in mobile solutions and distributed architectures.
+</p>
+<p align="center">
   <a href="https://www.nicolafiorillo.com">website</a>
 </p>
 
-CTO for startups, Software Engineer and Enterprise Software Architect consultant and freelance, specialized in mobile solutions and distributed architectures.
 
 - C/C++ developer since 1995.
 - C# and .NET developer since 2007.
