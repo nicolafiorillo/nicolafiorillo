@@ -12,4 +12,4 @@
 - Sometimes speaker.
 - More at [nicolafiorillo.com](https://www.nicolafiorillo.com).
 
-[Hire me](nicola.fiorillo@gmail.com).
+[Hire me](nicola.fiorillo[at]gmail.com).
