@@ -1,8 +1,7 @@
 
-<h1 align="center">Nicola Fiorillo</h1>
-<h4 align="center">
-  Software Developer/Engineer/Architect specialized in mobile solutions and distributed architectures.
-</h4>
+<h1 align="center">
+  Software Engineer and Architect specialized in mobile solutions and distributed architectures.
+</h1>
 
 - C/C++ developer since 1995.
 - C# and .NET developer since 2007.
