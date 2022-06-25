@@ -9,6 +9,7 @@
 - Certified ScrumMaster by Craig Larman since 2010.
 - Erlang/Elixir/OTP/BEAM developer and popularizer since 2014.
 - Creator of the [Seven Otters](https://www.sevenotters.org/) project, a set of facilities developed to create CQRS/ES solutions in Elixir on BEAM virtual machine.
+- Haskell traveler ([![Simple Haskell](https://www.simplehaskell.org/badges/badge.svg)](https://www.simplehaskell.org))
 - Having fun with React.
 - Sometimes speaker.
 - More at [nicolafiorillo.com](https://www.nicolafiorillo.com).
