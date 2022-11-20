@@ -10,7 +10,7 @@
 - Web solutions with React  and Typescrypt; mobile apps with Objective-C/Swift and Java.
 - Creator of the [Seven Otters](https://www.sevenotters.org/) project, a set of facilities developed to create CQRS/ES solutions in Elixir on BEAM virtual machine.
 - Haskell, Lambda Calculus, and functional principles traveler.
-- [![Simple Haskell](https://www.simplehaskell.org/badges/badge.svg)](https://www.simplehaskell.org)
+- Rust apprentice.
 - Sometimes speaker.
 - More at [nicolafiorillo.com](https://www.nicolafiorillo.com).
 
