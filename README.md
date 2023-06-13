@@ -11,6 +11,7 @@
 - Creator of the [Seven Otters](https://www.sevenotters.org/) project, a set of facilities developed to create CQRS/ES solutions in Elixir on BEAM virtual machine.
 - Haskell, Lambda Calculus, and functional principles traveler.
 - Rust apprentice.
+- Building [BTCR](https://github.com/nicolafiorillo/btcr), a Bitcoin node written in Rust almost from scratch for educational purposes.
 - Sometimes speaker.
 - More at [nicolafiorillo.com](https://www.nicolafiorillo.com).
 
